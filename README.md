@@ -67,6 +67,7 @@ The code for the navigation bar, Our Team, About Project, Login/Signup page, and
 Two files have been created for CSS styling.
 - first is named style.css.
 - second is named login-signup.css.
+
 The style.css file contains CSS for the navigation bar, our team section, about project section, and footer section.
 The CSS for the login/signup page is written in the login-signup.css file.
 
