@@ -59,6 +59,9 @@ By default, data for a specific location is shown on the main page. When a user 
 **After searching show weather data**
 ![After searching show weather data](./assets/ReplaceAfterSearchImage.png)
 
+**If particular location weather information not found**
+![If particular location weather information not found](./assets/dataNotfound.png)
+
 
 ## Details of the HTML Code
 The code for the navigation bar, Our Team, About Project, Login/Signup page, and Footer Section is written on the index.html(main file).
