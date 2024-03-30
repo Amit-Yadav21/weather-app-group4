@@ -54,11 +54,10 @@ In the navigation bar, add additional navigation options
 By default, data for a specific location is shown on the main page. When a user searches for data of a particular location, the default data is replaced with the searched data.
 
 **By default show weather data**
-[Image](https://ibb.co/L8v8W4D)
-[url=https://ibb.co/L8v8W4D][img]https://i.ibb.co/L8v8W4D/Screenshot-144.png[/img][/url]
+![By default show weather data](https://ibb.co/L8v8W4D)
 
 **After searching show weather data**
-[Image](https://ibb.co/jLyBvtG)
+![After searching show weather data](https://ibb.co/jLyBvtG)
 
 
 ## Details of the HTML Code
