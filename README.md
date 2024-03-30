@@ -1,6 +1,6 @@
-<p style="text-align: center; font-weight: bold;">Project Information</p>
-
+# Project information
 **Project name :** ‘Weather-app’
+
 **Description :** Building a weather app with a user-friendly layout and detailed weather updates. The app displays current weather, temperature, sunrise/sunset times, humidity, wind speed, and a three-day forecast. This project utilized dummy data for weather information.
 
 ## Project Objective 
