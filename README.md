@@ -51,7 +51,7 @@ In the navigation bar, add additional navigation options
 
 
 ## Searching weather data
-By default, data for a specific location is shown on the main page. When a user searches for data of a particular location, the default data is replaced with the searched data.
+By default, data for a specific location is shown on the main page. When a user searches for data of a particular location, the default data is replaced with the searched data. If the user searches for a specific location and there is no match in the dummy data, a message saying "No data found" is shown.
 
 **By default show weather data**
 ![By default show weather data](./assets/ByDefaultImage.png)
