@@ -1,6 +1,6 @@
 # Project information
-Project name : ‘Weather-app’
-Description : Building a weather app with a user-friendly layout and detailed weather updates. The app displays current weather, temperature, sunrise/sunset times, humidity, wind speed, and a three-day forecast. This project utilized dummy data for weather information.
+**Project name :** ‘Weather-app’
+**Description :** Building a weather app with a user-friendly layout and detailed weather updates. The app displays current weather, temperature, sunrise/sunset times, humidity, wind speed, and a three-day forecast. This project utilized dummy data for weather information.
 
 ## Project Objective 
 To create a real-time weather application that retrieves the user's precise location and provides weather forecast for the day and upcoming days also.We also tried to design a simple but visual UI that provides comprehensive data. 
@@ -40,28 +40,23 @@ In this project create folder and files -
 
 
 ## Navigation Bar
-In the navigation bar, add additional navigation options -
-	- Home : If a user clicks on the 'Home' navigation link, the webpage automatically moves to the Home page.
- 
-	- Our Team : If a user clicks on the 'Our Team' navigation link, they will be directed to the Our Team section, where they can find comprehensive information about our team. This includes details about each team member and the specific features they have built in the weather app .
-
-    - About project : If a user clicks on the 'About Project' navigation link, they will be directed to the About Project section, where information about the project is provided.
-
-	- Login : If a user clicks on the 'Login' navigation link, upon clicking the login button, open the modal login page. 
-
-	- Signup : If a user clicks on the 'Signup' navigation link, upon clicking the login button, open the modal signup page .
-
-	- Profile Icon : If a user clicks on the profile icon, they will be redirected to the "Our Team" section.
+In the navigation bar, add additional navigation options 
+- Home : If a user clicks on the 'Home' navigation link, the webpage automatically moves to the Home page.
+- Our Team : If a user clicks on the 'Our Team' navigation link, they will be directed to the Our Team section, where they can find comprehensive information about our team. This includes details about each team member and the specific features they have built in the weather app .
+- About project : If a user clicks on the 'About Project' navigation link, they will be directed to the About Project section, where information about the project is provided.
+- Login : If a user clicks on the 'Login' navigation link, upon clicking the login button, open the modal login page. 
+- Signup : If a user clicks on the 'Signup' navigation link, upon clicking the login button, open the modal signup page .
+- Profile Icon : If a user clicks on the profile icon, they will be redirected to the "Our Team" section.
 
 
-##Searching weather data
+## Searching weather data
 By default, data for a specific location is shown on the main page. When a user searches for data of a particular location, the default data is replaced with the searched data.
 
-By default show weather data -
+**By default show weather data**
+![Image](https://ibb.co/L8v8W4D)
 
-
-After searching show weather data -
-
+**After searching show weather data**
+![Image](https://ibb.co/jLyBvtG)
 
 
 ## Details of the HTML Code
