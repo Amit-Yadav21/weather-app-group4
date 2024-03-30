@@ -1,5 +1,6 @@
 # Project information
 **Project name :** ‘Weather-app’
+
 **Description :** Building a weather app with a user-friendly layout and detailed weather updates. The app displays current weather, temperature, sunrise/sunset times, humidity, wind speed, and a three-day forecast. This project utilized dummy data for weather information.
 
 ## Project Objective 
@@ -7,11 +8,11 @@ To create a real-time weather application that retrieves the user's precise loca
 
 ## Folder and file
 In this project create folder and files -
-- assets folder - In this folder, all images have filenames with extensions such as .png, .jpg, .svg, and .webp.
-- index.js file - In this file, JavaScript code is written for the hamburger icon, weather dummy data. 
-- index.html file - In this file write all html code (navigation bar, Our Team, About Project, Login/Signup page, and Footer Section)
-- login-signup.css file - In this file, all CSS for the login/signup page is written.
-- style.css file : In this file write all css code (navigation bar, Our Team, About Project, Login/Signup page, and Footer Section)
+- **assets folder** : In this folder, all images have filenames with extensions such as .png, .jpg, .svg, and .webp.
+- **index.js file** : In this file, JavaScript code is written for the hamburger icon, weather dummy data. 
+- **index.html file** : In this file write all html code (navigation bar, Our Team, About Project, Login/Signup page, and Footer Section)
+- **login-signup.css file** : In this file, all CSS for the login/signup page is written.
+- **style.css file** : In this file write all css code (navigation bar, Our Team, About Project, Login/Signup page, and Footer Section)
 
 ## Weather dummyData Features
 1. Current Weather Information:
@@ -53,10 +54,10 @@ In the navigation bar, add additional navigation options
 By default, data for a specific location is shown on the main page. When a user searches for data of a particular location, the default data is replaced with the searched data.
 
 **By default show weather data**
-![Image](https://ibb.co/L8v8W4D)
+[Image](https://ibb.co/L8v8W4D)
 
 **After searching show weather data**
-![Image](https://ibb.co/jLyBvtG)
+[Image](https://ibb.co/jLyBvtG)
 
 
 ## Details of the HTML Code
