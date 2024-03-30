@@ -1,6 +1,6 @@
-# Project information
-**Project name :** ‘Weather-app’
+<p style="text-align: center; font-weight: bold;">Project Information</p>
 
+**Project name :** ‘Weather-app’
 **Description :** Building a weather app with a user-friendly layout and detailed weather updates. The app displays current weather, temperature, sunrise/sunset times, humidity, wind speed, and a three-day forecast. This project utilized dummy data for weather information.
 
 ## Project Objective 
@@ -65,8 +65,8 @@ The code for the navigation bar, Our Team, About Project, Login/Signup page, and
 
 ## CSS styling
 Two files have been created for CSS styling.
-    - first is named style.css.
-    - second is named login-signup.css.
+- first is named style.css.
+- second is named login-signup.css.
 The style.css file contains CSS for the navigation bar, our team section, about project section, and footer section.
 The CSS for the login/signup page is written in the login-signup.css file.
 
